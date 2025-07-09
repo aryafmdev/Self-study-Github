@@ -4,4 +4,4 @@ CATATAN CONTOH
 - konsisten ngoding di github setiap hari minimal 1 file, meskipun kode sederhana
 - konsisten belajar atau repetisi kodingan yang sudah dipelajari
 - buat konten pembacaan grafologi
-- buat konten penjelasan misteri dunia
+- buat konten pembacaan grafologi terkait dengan kehidupan
