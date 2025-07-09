@@ -1,3 +1,5 @@
 CATATAN CONTOH
 - konsisten membuat konten sehari 1 konten video pendek 
 - konsisten ngoding sehari minimal 30 menit
+- konsisten ngoding di github setiap hari minimal 1 file, meskipun kode sederhana
+- konsisten belajar atau repetisi kodingan yang sudah dipelajari
